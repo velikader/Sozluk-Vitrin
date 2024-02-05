@@ -42,18 +42,12 @@ Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve
 
 ## Projeyi Başlatma
 
-1. Projeyi klonlayın: `git clone https://github.com/kullaniciadi/proje.git`
+1. Projeyi klonlayın: `git clone https://github.com/velikader/Sozluk-Vitrin`
 2. Visual Studio veya tercih ettiğiniz geliştirme ortamında projeyi açın.
 3. MSSQL veritabanını oluşturun ve bağlantı ayarlarınızı güncelleyin.
 4. Projeyi çalıştırın.
 
-## Katkıda Bulunma
 
-1. Fork yapın (https://github.com/kullaniciadi/proje/fork)
-2. Yeni bir özellik dalı oluşturun (`git checkout -b feature/ozellikAdi`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: ozellikAdi'`)
-4. Dalınıza itme yapın (`git push origin feature/ozellikAdi`)
-5. Pull Request oluşturun
 
 ## Lisans
 
