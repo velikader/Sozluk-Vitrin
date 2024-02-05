@@ -5,7 +5,7 @@
 
 Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve birbirleriyle etkileşimde bulunabileceği bir sözlük sitesini içermektedir. Ayrıca, kullanıcılar profillerini düzenleyebilir, mesajlaşabilir ve siteye fotoğraf ekleyebilirler.
 
-# Özellikler
+## Özellikler
 
 - **Kullanıcı Profili ve Üyelik:** Kullanıcılar, site içindeki profillerini oluşturabilir, düzenleyebilir ve kullanıcı profili kartlarına özelleştirmeler yapabilirler. Üyelik, kullanıcı profili kısmından oluşturulup giriş yapılabilmektedir.
 
@@ -17,9 +17,9 @@ Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve
 
 - **Admin Paneli:** Admin, kullanıcıların yazıları, mesajları, başlıkları ve yorumları düzenleme yetkisine sahip bir panel kullanabilir.
 
-# Kullanılan Geliştirme Araçları
+## Kullanılan Geliştirme Araçları
 
-# Tasarım Araçları
+## Tasarım Araçları
 
 - HTML5
 - CSS
@@ -27,15 +27,15 @@ Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve
 - JavaScript
 - jQuery
 
-# SQL Veritabanı
+## SQL Veritabanı
 
 - MSSQL
 
-# Geliştirme Platformu
+## Geliştirme Platformu
 
 - ASP.NET MVC5
 
-# Mimari
+## Mimari
 
 - N-Tier Mimari
   - Business
@@ -43,14 +43,14 @@ Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve
   - Data Access
   - Presentation
 
-# Projeyi Başlatma
+## Projeyi Başlatma
 
 1. Projeyi klonlayın: `git clone https://github.com/kullaniciadi/proje.git`
 2. Visual Studio veya tercih ettiğiniz geliştirme ortamında projeyi açın.
 3. MSSQL veritabanını oluşturun ve bağlantı ayarlarınızı güncelleyin.
 4. Projeyi çalıştırın.
 
-# Katkıda Bulunma
+## Katkıda Bulunma
 
 1. Fork yapın (https://github.com/kullaniciadi/proje/fork)
 2. Yeni bir özellik dalı oluşturun (`git checkout -b feature/ozellikAdi`)
@@ -58,7 +58,7 @@ Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve
 4. Dalınıza itme yapın (`git push origin feature/ozellikAdi`)
 5. Pull Request oluşturun
 
-# Lisans
+## Lisans
 
 Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
 ```
