@@ -1,6 +1,3 @@
-
-
-```markdown
 # Sözlük Sitesi Projesi
 
 Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve birbirleriyle etkileşimde bulunabileceği bir sözlük sitesini içermektedir. Ayrıca, kullanıcılar profillerini düzenleyebilir, mesajlaşabilir ve siteye fotoğraf ekleyebilirler.
@@ -19,7 +16,7 @@ Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve
 
 ## Kullanılan Geliştirme Araçları
 
-## Tasarım Araçları
+### Tasarım Araçları
 
 - HTML5
 - CSS
@@ -27,15 +24,15 @@ Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve
 - JavaScript
 - jQuery
 
-## SQL Veritabanı
+### SQL Veritabanı
 
 - MSSQL
 
-## Geliştirme Platformu
+### Geliştirme Platformu
 
 - ASP.NET MVC5
 
-## Mimari
+### Mimari
 
 - N-Tier Mimari
   - Business
@@ -61,6 +58,3 @@ Bu proje, kullanıcıların başlıklar açabileceği, yorumlar yapabileceği ve
 ## Lisans
 
 Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
-```
-
-
